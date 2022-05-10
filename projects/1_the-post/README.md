@@ -19,9 +19,9 @@
 > The novel Ulysses by James Joyce features one of the longest sentences ever recorded in a book. Rather than being coherent and long, the sentence is more like a group of small sentences put together. Hence, the idea of a twitter bot to suits this group. Final presentation for the project can be found [here](thepost_presentation_final.pdf). 
 ---
 ## 🧪 Results
-![Molly Bloom Profile](img/molly-bloom.png)
-![Tweet 1](img/tweet-1.png)
-![Tweet 2](img/tweet-2.png)
+![Molly Bloom Profile](img/molly-bloom.png)<br>
+![Tweet 1](img/tweet-1.png)<br>
+![Tweet 2](img/tweet-2.png)<br>
 ![Tweet 3](img/tweet-3.png)
 ---
 > [bajju.info](https://www.bajju.info) &nbsp;&middot;&nbsp;
