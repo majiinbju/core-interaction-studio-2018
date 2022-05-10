@@ -1,9 +1,9 @@
 # `📚` Core Interaction Studio
 > *Parsons School of Design<br>
 > Communication Design<br>
-> Spring 2018<br>
-> Tuesday &nbsp;&middot;&nbsp; 9:00 - 11:40 am<br>
-> Thursday &nbsp;&middot;&nbsp; 9:00 - 11:40 am*
+> Spring 2018 &nbsp;&middot;&nbsp;
+> Tuesday / 9:00 - 11:40 am &nbsp;&middot;&nbsp;
+> Thursday / 9:00 - 11:40 am*
 ## `📖` Summary
 > repository containing web projects for Core Interaction Studio, Spring 2018<br>
 > class taught by [Lukas Eigler-Harding](https://github.com/leigler)<br>
