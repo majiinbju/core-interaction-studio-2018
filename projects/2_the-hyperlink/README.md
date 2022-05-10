@@ -16,7 +16,7 @@
 > Begin to think about how the site structure begins to influence the user's understanding of your texts. How might the navigation alter the contents meaning?  
 ---
 ## 💡 Idea
-> *Dragon Ball Z* is about spiritual enlightenment; moving from a place of ignorance toward a place of insight and learning to harmonize and progress as a group, drawing insiration from Mahayana Buddhism.
+> *Dragon Ball Z* is about spiritual enlightenment; moving from a place of ignorance toward a place of insight and learning to harmonize and progress as a group, drawing inspiration from Mahayana Buddhism.
 
 > The anime and manga itself is based off of an ancient Chinese novel – *The Journey to the West*
 
