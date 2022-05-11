@@ -1,9 +1,8 @@
 /******************************************************************************
-                            Stylesheet for Boilerplate
+                            Stylesheet for DBZ Psyche
 ******************************************************************************/
 
 /* Root Value Stylings */
-
 
 :root {
     --std-margin: 3rem;
@@ -20,14 +19,41 @@
     margin: none;
 }
 
-
 /* Body Stylings */
-
 
 body {
     background-color: var(--background-color);
-    margin: var(--std-margin);
+    margin: 0rem;
     font-size: var(--font-size);
     font-family: sans-serif;
     color: var(--font-color);
+}
+
+.main {
+    flex-grow: 1;
+}
+
+section {
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+    background-color: orange;
+}
+
+.flex {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+/* Landing */
+
+h1 {
+    font-size: 10rem;
+    position: absolute;
+    top: 1rem;
+    left: 5rem;
+}
+
+.landing {
 }
