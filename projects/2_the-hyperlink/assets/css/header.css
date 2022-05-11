@@ -1,0 +1,11 @@
+/* header stylings */
+
+.header > nav > ul {
+	margin: 0rem;
+	padding: 1rem;
+	display: flex;
+	list-style-type: none;
+	justify-content: space-between;
+	align-items: center;
+	border-bottom: 4px solid var(--font-color);
+}

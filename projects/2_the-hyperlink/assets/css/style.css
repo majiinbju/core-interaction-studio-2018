@@ -5,9 +5,9 @@
 /* Root Value Stylings */
 
 :root {
-    --h1: 12.5rem;
+    --h1: 10.5rem;
     --std-margin: 3rem;
-    --font-size: 3rem;
+    --font-size: 2rem;
     --font-color: #C70039;
     --shadow: #a40431;
     /* --background-color: rgba(255, 109, 0, 1); */
@@ -41,6 +41,7 @@
 /* Body Stylings */
 
 body {
+    /* position: relative; */
     font-family: var(--body-font);
     background-color: var(--background-color);
     /* background: var(--background); */
@@ -51,6 +52,7 @@ body {
 }
 
 .main {
+    display: flex;
     flex-grow: 1;
 }
 
