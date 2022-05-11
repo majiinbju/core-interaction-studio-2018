@@ -5,11 +5,28 @@
 /* Root Value Stylings */
 
 :root {
+    --h1: 12.5rem;
     --std-margin: 3rem;
-    --font-size: 2rem;
-    --font-color: white;
-    --background-color: gray;
+    --font-size: 3rem;
+    --font-color: #C70039;
+    --shadow: #a40431;
+    /* --background-color: rgba(255, 109, 0, 1); */
+    --background-color: #73ee60;
+    --background: linear-gradient(0deg, rgba(255, 109, 0, 1) 0%, rgba(255, 144, 0, 1) 50%, rgba(255, 198, 57, 1) 100%);
+    --body-font: title;
+    --title-font: title;
 }
+
+@font-face {
+    font-family: title;
+    src: url(/assets/fonts/terminal-grotesque-webfont.woff);
+}
+
+@font-face {
+    font-family: body;
+    src: url(/assets/fonts/CooperHewitt-Medium.otf);
+}
+
 
 *,
 *:before,
@@ -19,10 +36,14 @@
     margin: none;
 }
 
+
+
 /* Body Stylings */
 
 body {
+    font-family: var(--body-font);
     background-color: var(--background-color);
+    /* background: var(--background); */
     margin: 0rem;
     font-size: var(--font-size);
     font-family: sans-serif;
@@ -34,10 +55,9 @@ body {
 }
 
 section {
-    width: 100vw;
-    height: 100vh;
     position: relative;
-    background-color: orange;
+    /* background-color: #FF9000; */
+    /* background: var(--background); */
 }
 
 .flex {
@@ -46,14 +66,70 @@ section {
     align-items: center;
 }
 
-/* Landing */
+/* Typography */
 
 h1 {
-    font-size: 10rem;
-    position: absolute;
-    top: 1rem;
-    left: 5rem;
+    font-size: var(--h1);
+    font-family: var(--title-font);
+    text-transform: uppercase;
+    margin: 0rem;
+    color: var(--font-color);
+    line-height: 80%;
+    z-index: 2;
+    text-shadow: -5px 10px 0px var(--shadow);
+}
+
+a {
+    font-size: var(--font-size);
+    font-family: var(--title-font);
+    color: currentColor;
+    text-decoration: none;
+}
+
+a:hover {
+    /* text-decoration: underline; */
+    color: blue;
+}
+
+/* landing */
+
+.enter {
+    text-transform: uppercase;
+    margin-top: var(--std-margin);
 }
 
 .landing {
+    width: 100%;
+    height: 100vh;
+    flex-direction: column;
+}
+
+.z-1 {
+    z-index: 1;
+}
+
+.goku-landing {
+    position: absolute;
+    z-index: 2;
+    transform: scale(1.85);
+    justify-self: center;
+}
+
+.index {
+    border-top: 3px solid var(--font-color);
+    border-bottom: 3px solid var(--font-color);
+    list-style: none;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.index>li {
+    margin-bottom: 1rem;
+    margin-top: 1rem;
+    margin-left: 10rem;
+    text-shadow: -3px 0.5px 0px var(--shadow);
+}
+
+.index>li:first-child {
+    margin-left: 0rem;
 }
