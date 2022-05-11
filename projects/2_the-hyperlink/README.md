@@ -22,8 +22,10 @@
 
 > To me, all the characters are linked in one way or another, sometimes biologically and sometimes because of their emotional similarities. These connections can be construed as hyperlinks that will help create a narrative for the psychological aspect of *Dragon Ball Z*.
 ---
+
 ## 🧪 Results
 ![Dragon Ball Psyche – Landing Page](img/)
+
 ---
 ## 🪪 License
 > This project is [MIT Licensed](LICENSE.md)
