@@ -24,7 +24,7 @@
 ---
 
 ## 🧪 Results
-![Dragon Ball Psyche – Landing Page](/assets/readme/dbz-landing.png)
+![Dragon Ball Psyche – Landing Page](assets/readme/dbz-landing.png)
 
 ---
 ## 🪪 License
