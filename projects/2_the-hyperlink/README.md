@@ -21,7 +21,7 @@
 
 > The anime and manga itself is based off of an ancient Chinese novel – *The Journey to the West*
 
-> To me, all the characters are linked in one way or another, sometimes biologically and sometimes because of their emotional similarities. These connections can be construed as hyperlinks that will help create a narrative for the psychological aspect of *Dragon Ball Z*.
+> To me, all the characters are linked in one way or another, sometimes biologically and sometimes because of their emotional similarities. These connections can be construed as hyperlinks that will help create a narrative for the psychological aspect of *Dragon Ball Z* and its relation to *The Journey to the West*. Anime is almost always viewed in a childish light, especially *DBZ* oweing to its raunchy humour, funny tropes and character designs; underneath all this lies a deeper psychology that this project alludes to.
 ---
 
 ## 🧪 Results
