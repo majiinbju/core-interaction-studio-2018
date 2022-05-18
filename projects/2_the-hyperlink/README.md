@@ -17,15 +17,15 @@
 > - Begin to think about how the site structure begins to influence the user's understanding of your texts. How might the navigation alter the contents meaning?  
 ---
 ## 💡 Idea
-> *Dragon Ball Z* is about spiritual enlightenment; moving from a place of ignorance toward a place of insight and learning to harmonize and progress as a group, drawing inspiration from Mahayana Buddhism.
+> The lyrics to *Meat Grinder*, a song by artist MF Doom, are purposefully left open to interpretation. Further, the flow to the rap is irregular and the rap itself is almost Freudian. Rather than pre-written lyrics, it sounds like Doom has let his consciousness take over and he is freely flowing through it. 
 
-> The anime and manga itself is based off of an ancient Chinese novel – *The Journey to the West*
+> A big part of MF Doom's personality and aesthetic is his extensive use and knowledge of samples from old shows, particularly from the '70s. His entire personality exudes nostalgia.
 
-> To me, all the characters are linked in one way or another, sometimes biologically and sometimes because of their emotional similarities. These connections can be construed as hyperlinks that will help create a narrative for the psychological aspect of *Dragon Ball Z* and its relation to *The Journey to the West*. Anime is almost always viewed in a childish light, especially *DBZ* oweing to its raunchy humour, funny tropes and character designs; underneath all this lies a deeper psychology that this project alludes to.
+> Combining these two factors, I used the Genius page for the lyrics to this song and have arranged it along with gifs that allude to the various interpretations people have had over these lyrics.
 ---
 
 ## 🧪 Results
-![Dragon Ball Psyche – Landing Page](assets/readme/dbz-landing.png)
+![Meat Grinder Website](assets/readme/meat-grinder-landing.gif)
 
 ---
 ## 🪪 License

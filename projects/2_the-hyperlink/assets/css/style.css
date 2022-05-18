@@ -5,28 +5,23 @@
 /* Root Value Stylings */
 
 :root {
-    --h1: 10.5rem;
     --std-margin: 3rem;
-    --font-size: 2rem;
-    --font-color: #C70039;
-    --shadow: #a40431;
-    /* --background-color: rgba(255, 109, 0, 1); */
-    --background-color: #73ee60;
-    --background: linear-gradient(0deg, rgba(255, 109, 0, 1) 0%, rgba(255, 144, 0, 1) 50%, rgba(255, 198, 57, 1) 100%);
-    --body-font: title;
-    --title-font: title;
+    --font-size: 1rem;
+    --body-font: body;
+    --background-color: #EFEFF1;
+    --background-color: #E6E6E6;
+    --orange: #ED7739;
 }
 
 @font-face {
     font-family: title;
-    src: url(/assets/fonts/terminal-grotesque-webfont.woff);
+    src: url(/assets/fonts/);
 }
 
 @font-face {
     font-family: body;
-    src: url(/assets/fonts/CooperHewitt-Medium.otf);
+    src: url('/assets/fonts/JetBrainsMono-Regular.woff2');
 }
-
 
 *,
 *:before,
@@ -36,19 +31,14 @@
     margin: none;
 }
 
-
-
 /* Body Stylings */
 
 body {
-    /* position: relative; */
+    cursor: crosshair;
+    margin: var(--std-marginq);
+    font-size: var(--font-size);
     font-family: var(--body-font);
     background-color: var(--background-color);
-    /* background: var(--background); */
-    margin: 0rem;
-    font-size: var(--font-size);
-    font-family: sans-serif;
-    color: var(--font-color);
 }
 
 .main {
@@ -57,82 +47,69 @@ body {
     position: relative;
 }
 
-section {
-    position: relative;
-    /* background-color: #FF9000; */
-    /* background: var(--background); */
-}
+/* header */
 
-.flex {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
-/* Typography */
-
-h1 {
-    font-size: var(--h1);
-    font-family: var(--title-font);
-    text-transform: uppercase;
-    margin: 0rem;
-    color: var(--font-color);
-    line-height: 80%;
-    z-index: 2;
-    text-shadow: -5px 10px 0px var(--shadow);
-}
-
-a {
+.header {
     font-size: var(--font-size);
-    font-family: var(--title-font);
+    list-style-type: none;
+    margin: 0rem;
+    position: fixed;
+    top: 0;
+    display: flex;
+    align-items: center;
+    z-index: 2;
+}
+
+.header > li {
+    margin-top: var(--std-margin);
+    margin-left: 7.5rem;
+}
+
+.header > li > a {
     color: currentColor;
     text-decoration: none;
 }
 
-a:hover {
-    /* text-decoration: underline; */
-    color: blue;
+.header > li > a:hover {
+    cursor: crosshair;
+    color: var(--orange);
 }
 
 /* landing */
 
-.enter {
-    text-transform: uppercase;
-    margin-top: var(--std-margin);
-}
-
-.landing {
-    width: 100%;
+section {
+    position: relative;
+    width: 100vw;
     height: 100vh;
-    flex-direction: column;
-}
-
-.z-1 {
-    z-index: 1;
-}
-
-.goku-landing {
-    position: absolute;
-    z-index: 2;
-    transform: scale(1.85);
-    justify-self: center;
-}
-
-.index {
-    border-top: 3px solid var(--font-color);
-    border-bottom: 3px solid var(--font-color);
-    list-style: none;
     display: flex;
-    justify-content: space-evenly;
+    align-items: center;
+    justify-content: center;
 }
 
-.index>li {
-    margin-bottom: 1rem;
+.next {
+    top: 0;
+    right: 0;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    background-color: var(--orange);
+}
+
+.landing-img {
+    position: absolute;
+    bottom: 0;
+    width: 750px;
+}
+
+/* verse stylings */
+
+figure img {
+    border: 2px solid black;
+    box-shadow: 5px 4px 0px black;
+}
+
+.verse {
+    /* width: 350px; */
     margin-top: 1rem;
-    margin-left: 10rem;
-    text-shadow: -3px 0.5px 0px var(--shadow);
-}
-
-.index>li:first-child {
-    margin-left: 0rem;
+    margin-bottom: 1rem;
 }

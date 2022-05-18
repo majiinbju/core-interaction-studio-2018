@@ -1,4 +1,4 @@
-# `📖` The Hyperlink
+# `📖` Observations
 > **[Core Interaction Studio](https://github.com/majiinbju/core-interaction-studio-2018)**<br>
 > *Parsons School of Design<br>
 > Communication Design<br>
@@ -7,23 +7,25 @@
 > Thursday / 9:00 - 11:40 am*
 ---
 ## 🎯 Objective
-> The hyperlink (or link) is arguably the cornerstone of the internet. A hyperlink can transport a user from page to page, or website to website— it acts as the linking mechanism through which the whole internet is at our disposal. Through hyperlinks, a user is able to construct their own path or narrative.
+> Jean Baudrillard outlines collections as the collective separation of objects of their utility. An object within a true collection becomes purely aesthetic. A true collection acts as a mirror to its owner— it is given and retains meaning through the owner's presence and care. Create or find a collection of at least 40 objects. Your assignment is divided into two stages— organization and interpretation:
 
-> You will design and develop a multi-page website around the hyperlink that intertwines your selected content and produces a new narrative:
+> Begin to organize this collection through the design and development of a simple website
+> - What does organizing this collection begin to reveal? What patterns are present? What discrepancies? 
+> - What themes does this collection hold?
+> - How does the site's design reflect the structures of the collection?
 
-> Select two pieces of content that complement each other in some way. Think about how these pieces may fragment and weave through each other (how do they relate? Are there points where the content breaks easily? What new meaning can you construct by pairing disparate sentences together? How does seeing fragments of content on each page shift the pacing of your new narrative? Are all the links treated the same? different? What kind of hierarchy can you introduce into your narrative?).
+> Build a responsive website based on your collection by appending your JSON file.
 
-> Begin to think about how the site structure begins to influence the user's understanding of your texts. How might the navigation alter the contents meaning?  
 ---
 ## 💡 Idea
-> *Dragon Ball Z* is about spiritual enlightenment; moving from a place of ignorance toward a place of insight and learning to harmonize and progress as a group, drawing inspiration from Mahayana Buddhism.
+> The movie La Haine tells a very interesting and avant-garde story. The film itself is shot in black and white and each scene is driven by dialogue and the chemistry between the characters. 
 
-> The anime and manga itself is based off of an ancient Chinese novel – *The Journey to the West*
+> The three protagonists of the movie all represent different responses to the situations they find themselves in. Vinz is more fiery and prone to aggression, while Hubert is calmer and often the most level-headed. Said proves to be a blend of the two and often finds himself confused. 
 
-> To me, all the characters are linked in one way or another, sometimes biologically and sometimes because of their emotional similarities. These connections can be construed as hyperlinks that will help create a narrative for the psychological aspect of *Dragon Ball Z*.
+> As such, this website uses typography and colour to portray these emotions on the screen. The typography on the landing page are illustrations made by me, each phrase is taken from graffiti in the movie and relates to the character it is hyperlinked to. The progression of color aims to allude to their moods in each of the frames appended, while the hue of the color itself is a reference to their disposition. 
 ---
 ## 🧪 Results
-![Dragon Ball Psyche – Landing Page](img/)
+![La Haine Frames](haine-frames.gif)
 ---
 ## 🪪 License
 > This project is [MIT Licensed](LICENSE.md)
